@@ -3,4 +3,8 @@ public struct HeckLib {
 
     public init() {
     }
+    
+    func test() -> String {
+        return "Test Function."
+    }
 }
